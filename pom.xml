@@ -18,7 +18,7 @@
       <id>github</id>
       <name>GitHub Packages</name>
 
-      <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
+      <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME  -->
       <url>https://maven.pkg.github.com/chriskaza81/TestJava</url>
 
     </repository>
